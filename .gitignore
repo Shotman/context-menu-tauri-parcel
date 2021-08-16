@@ -145,5 +145,5 @@ dist
 .history
 dist
 dist/*
-!dist/.gitkeep
+!*/.gitkeep
 src-tauri/target

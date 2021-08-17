@@ -1527,10 +1527,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tauri-apps/cli@^1.0.0-beta.8":
-  version "1.0.0-beta.8"
-  resolved "https://registry.npmjs.org/@tauri-apps/cli/-/cli-1.0.0-beta.8.tgz"
-  integrity sha512-aI9gEZfzsMOa8lM3Z62EBpyjQtQElTHcRT3o+AEv4yLyQrhVjVcRHZ5h4Ch7M+SqO52RrQXn9V3o7yLZpdQFmg==
+"@tauri-apps/cli@^1.0.0-beta.9":
+  version "1.0.0-beta.9"
+  resolved "https://registry.yarnpkg.com/@tauri-apps/cli/-/cli-1.0.0-beta.9.tgz#34cff14dc332d1b49cd0f8460d579790ff3620f9"
+  integrity sha512-L/fr+iX658blVO2I6ewhRbaoGyB11asd8WrRBG5tpnF5i80igYAUt5XoJNURGspax4blEW0mKPEfnyQ02zJYRQ==
   dependencies:
     "@tauri-apps/toml" "2.2.4"
     chalk "4.1.2"

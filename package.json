@@ -13,9 +13,9 @@
     "vanilla-context-menu": "^1.0.1"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.0-beta.6",
-    "parcel-bundler": "^1.12.5",
     "@babel/core": "^7.15.0",
-    "@babel/preset-env": "^7.15.0"
+    "@babel/preset-env": "^7.15.0",
+    "@tauri-apps/cli": "^1.0.0-beta.8",
+    "parcel": "^2.0.0-rc.0"
   }
 }
